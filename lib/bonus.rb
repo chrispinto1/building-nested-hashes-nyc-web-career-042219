@@ -22,7 +22,7 @@ def bonus
   }
 
   #code your solution here:
-  binding pry
+  binding.pry
   :hero["status"] => "dead"
   
 
