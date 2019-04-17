@@ -1,3 +1,4 @@
+require "pry"
 def bonus
   epic_tragedy = {
    :montague => {
@@ -21,6 +22,7 @@ def bonus
   }
 
   #code your solution here:
+  binding pry
   :hero["status"] => "dead"
   
 
